@@ -1,7 +1,9 @@
-# Alumnado
-Alumnado de Lenguajes de Marcas de DAW del curso 2024-25
+# Lenguajes de Marcas - DAW. Curso 2024-25
 
-Profesor: José Antonio Molina [jmoba](https://github.com/jmoba)
+## Profesor
+José Antonio Molina [jmoba](https://github.com/jmoba)
+
+## Alumnado
 
 * Archilla Martín, Saray
 * Barbero Calvache, Daniel
