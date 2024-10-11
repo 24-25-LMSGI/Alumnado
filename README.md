@@ -9,7 +9,6 @@ Profesor: José Antonio Molina [jmoba](https://github.com/jmoba)
 * Fernández Morales, Álvaro
 * Flore Sánchez, Armín
 * Giménez Alonso, Daniel
-* Marín Rodríguez, José Antonio
 * Martín Vidal, Adrián Deiá
 * Martínez Cabezas, Francisco
 * Martínez Marín, Miguel
@@ -19,3 +18,4 @@ Profesor: José Antonio Molina [jmoba](https://github.com/jmoba)
 * Pérez Ortiz, Marco Antonio
 * Quero Martín, Hugo
 * Rabaneda López, Alejandro
+* Valverde Carmona, Iker
